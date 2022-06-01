@@ -16,10 +16,11 @@
 </p> 
 <br />
 <br />
-📓 Resumo <br/>
+
+## 📓 Resumo
 <br />
 
-Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Abordando muitos conteúdos(ambos citados logo abaixo!) que tem como finalidade aprofunda o conhecimento. 
+Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Abordando muitos conteúdos(ambos citados logo abaixo!) que tem como finalidade aprofunda o conhecimento.
 
 <br />
 
