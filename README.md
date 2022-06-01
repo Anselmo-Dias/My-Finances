@@ -37,6 +37,19 @@ Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Ab
 
 <br />
 
+
+## 💻 Rodando o projeto na sua maquina
+<br />
+
+Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo abaixo:
+
+ - 1º: Tenha o NODE instalado na sua máquina;
+-  2º: Faça o download deste projeto;
+-  3º: Com o terminal/prompt abra o diretório deste projeto e execute o comando `yarn`;
+-  4º: Pronto tudo configurado, faça bom proveito;
+
+<br />
+
 ## :memo: License
 
 Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
