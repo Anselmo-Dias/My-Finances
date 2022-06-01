@@ -6,7 +6,7 @@
  #     NLW-TOGETHER 
   <br />
   <br />
-  NextJS |  Typescript
+  ReactJS |  Typescript
 </h1>
   
 <p align="center">
@@ -16,20 +16,23 @@
 </p> 
 <br />
 <br />
-## 📓 Resumo
+📓 Resumo <br/>
 <br />
 
-...
+Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Abordando muitos conteúdos(ambos citados logo abaixo!) que tem como finalidade aprofunda o conhecimento. 
 
 <br />
 
-## O link do site 
-### **Hospedado por:**
+## :bulb: Conteúdos abordados
 <br />
 
-  - [GitHub Pages](https://anselmo-dias.github.io/BarbeariaDosBoys/) 💈
- 
 
+- React
+- Styled Components 
+- MirageJS
+- Context API's
+- hooks
+- Axios
 
 <br />
 
