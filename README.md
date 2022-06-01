@@ -3,22 +3,19 @@
 <br />
 <br />
 <h1 align="center">
- #    My Finances 
+ #     NLW-TOGETHER 
   <br />
   <br />
-  Html |  Css  |  Javascript | 
+  NextJS |  Typescript
 </h1>
   
 <p align="center">
- <img alt="Html" src="https://img.shields.io/badge/hypertext%20-Html-important" /> 
-   <img alt="Html" src="https://img.shields.io/badge/Cascading%20Style sheets-Css-blue" />
-  <img alt="Html" src="https://img.shields.io/badge/Main%20lenguage-Javascript-yellow" /> <br/>
+  <img alt="Rocketseat" src="https://img.shields.io/badge/Created%20by%3A-Rocketseat-%236D5CCD" />
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-%2398C611" />
- 
+  <img alt="Typescript" src="https://img.shields.io/badge/Main%20lenguage-Typescript-%232F74C0" /> <br />
 </p> 
 <br />
 <br />
-
 ## 📓 Resumo
 <br />
 
