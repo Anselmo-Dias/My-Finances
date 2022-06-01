@@ -3,7 +3,7 @@
 <br />
 <br />
 <h1 align="center">
- #     NLW-TOGETHER 
+ #     My-Finances 
   <br />
   <br />
   ReactJS |  Typescript
@@ -20,7 +20,7 @@
 ## 📓 Resumo
 <br />
 
-Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Abordando muitos conteúdos(ambos citados logo abaixo!) que tem como finalidade aprofunda o conhecimento.
+Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Abordando muitos conteúdos(ambos citados logo abaixo!) que tem como finalidade aprofundar o conhecimento.
 
 <br />
 
