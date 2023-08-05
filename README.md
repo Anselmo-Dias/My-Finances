@@ -65,6 +65,6 @@ Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 Siga -me no instagram
 <br />
 
-- [Instagram](https://www.instagram.com/_anselmo_69/)
+- [Instagram](https://www.instagram.com/_anselmo.dev/)
 
 <br />
