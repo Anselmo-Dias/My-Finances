@@ -22,6 +22,8 @@
 
 Projeto criado com intuito de te ajuda a ter o controle sobre suas finanças, Abordando muitos conteúdos(ambos citados logo abaixo!) que tem como finalidade aprofundar o conhecimento.
 
+<img width="832" alt="Captura de tela 2023-08-05 203522" src="https://github.com/Anselmo-Dias/My-Finances/assets/96529532/29fed787-5aa2-4249-98ff-7284a30f4751">
+
 <br />
 
 ## :bulb: Conteúdos abordados
