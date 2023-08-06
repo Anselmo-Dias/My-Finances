@@ -47,8 +47,8 @@ Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo a
 
 - 1º: Tenha o NODE instalado na sua máquina;
 - 2º: Faça o download deste projeto;
-- 3º: Com o terminal/prompt abra o diretório deste projeto e execute o comando npm i;
-- 4º: Após finalizado o comando do passo 3 e com tudo finalizado, agora execute o comando npm run start;
+- 3º: Com o terminal/prompt abra o diretório deste projeto e execute o comando ``npm i``;
+- 4º: Após finalizado o comando do passo 3 e com tudo finalizado, agora execute o comando ``npm run start``;
 - 5º: Pronto tudo configurado, faça bom proveito;
 
 <br />
